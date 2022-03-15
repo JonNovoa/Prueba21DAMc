@@ -7,6 +7,7 @@ public class Alumno {
 	private String nombre;
 	private int edad;
 	private String  dni;
+	private String email;
 	
 	
 	public String getNombre() {
